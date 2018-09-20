@@ -13,19 +13,16 @@ public class MathTester {
 
         System.out.println(total);
         total= total + 10;
+
         System.out.println(total);
-        /*BMI= Kg/M*M
-        M = inch*(0.0254meters/1inch)
-        inch = M*(1inch/0.0254meters)
-         */
-        /*System.out.println(firstWord+secondWord);
+        System.out.println(firstWord+secondWord);
         System.out.println(firstWord+(firstNumber+secondNumber));
         System.out.println("firstNumber+secondNumber is "+(firstNumber+secondNumber));
         System.out.println("firstNumber-secondNumber is "+(firstNumber+secondNumber));
         System.out.println("secondNumber / firstNumber is "+(secondNumber / firstNumber));
         System.out.println("firstNumber * secondNumber is "+(firstNumber*secondNumber));
         System.out.println("The modulus of the secondNumber by the firstNumber" +
-                " is "+(secondNumber%firstNumber));*/
+                " is "+(secondNumber%firstNumber));
 
 
 
